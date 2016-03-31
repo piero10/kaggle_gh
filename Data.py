@@ -23,7 +23,7 @@ class DataStorage:
     LabelsNHalf1 = []
     LabelsNHalf2 = []
     
-    #commonPath = "D:\\kaggle\\"
+    #commonPath = ""
     commonPath = "C:\\kaggle\\kaggle_crime\\"
 
     FeaturesNames = []
